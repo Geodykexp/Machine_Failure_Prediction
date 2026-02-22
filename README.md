@@ -1,6 +1,6 @@
 # Machine Failure Prediction
 
-This repository provides an end-to-end workflow for predicting machine failure while comparing various models and ultimately selecting XGBoost. 
+This repository provides an end-to-end workflow for predicting machine failure of different components of a manufacturing plant. The goal is to predict the likelihood of machine failure for various components based on the value of different machine parameters provided. The model is trained using XGBoost and deployed to AWS Lambda for real-time predictions.
 
 ## Project Overview
 
